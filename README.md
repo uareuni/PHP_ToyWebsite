@@ -8,7 +8,9 @@ Last update : 18. 4. 11 Wed. <br />
 <br/>
 
 <hr /><br />
+
 ![main1](https://github.com/uareuni/PHP_ToyWebsite/blob/master/main1.png)
 
 <hr /><br />
+
 ![main2](https://github.com/uareuni/PHP_ToyWebsite/blob/master/main2.png)
